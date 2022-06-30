@@ -2,7 +2,8 @@
 
 This is my first html site. It looks horrendous but it's progress.
 
-<img width="1160" alt="Screen Shot 2022-06-30 at 11 20 56 AM" src="https://user-images.githubusercontent.com/73633726/176749930-89889967-fcac-4fea-a951-7bebfa207da8.png">
+<img width="1162" alt="Screen Shot 2022-06-30 at 11 30 21 AM" src="https://user-images.githubusercontent.com/73633726/176751884-cdb53e16-1dd3-4c9a-a900-6666bd9a95cb.png">
+
 
 
 
