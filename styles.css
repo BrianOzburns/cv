@@ -1,0 +1,25 @@
+body {
+    background-color: #FCF8E8;
+}
+hr {
+    /* background-color: #DF7861; */
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    border-color: #ECB390;
+    width: 10%;
+    
+}
+h1 {
+    color: #DF7861;
+}
+h3 {
+    color: #DF7861;
+}
+h1:hover{
+    color: goldenrod;
+}
+
+.circular {
+    border-radius: 100%;
+}
